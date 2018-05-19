@@ -7,3 +7,8 @@
 - requests <br>
 - wikipediaapi <br>
 - types
+
+<b> Контакты: </b>
+
+Телеграм - @dsh1337 <br>
+Уголок Хакера - @hackblog
