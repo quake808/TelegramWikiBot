@@ -1,9 +1,9 @@
 # TelegramWikiBot
+<b> Необходимые библиотеки: </b>
 
-Необходимые библиотеки:
-telebot
-config
-cherrypy (для вебсервера)
-requests
-wikipediaapi
-types
+- telebot <br>
+- config <br>
+- cherrypy (для вебсервера) <br>
+- requests <br>
+- wikipediaapi <br>
+- types
